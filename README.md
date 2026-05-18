@@ -1,4 +1,4 @@
-# Hi, I'm Iqra Parvez 👋
+# Hi, I'm Iqra A 👋
 
 Frontend Developer | Passionate About Clean UI & Modern Web Experiences
 
@@ -9,13 +9,16 @@ Frontend Developer | Passionate About Clean UI & Modern Web Experiences
 
 ## Currently Working On
 - Frontend development projects
-- Improving UI/UX skills
-- Expanding my GitHub portfolio
+- React projects
+- Modern UI designs with Tailwind CSS
+- Strengthening frontend development skills
 
 ## Tech Stack
 - HTML5
 - CSS3
 - JavaScript
+- React.js
+- Tailwind CSS
 - Git & GitHub
 - VS Code
 
@@ -23,11 +26,11 @@ Frontend Developer | Passionate About Clean UI & Modern Web Experiences
 - Contribute to real-world projects
 - Collaborate with developers and teams
 - Grow as a professional frontend developer
-
+- 
 ## Contact
-- GitHub: your-github-username
-- LinkedIn: your-linkedin-link
-- Email: your-email@example.com
+- GitHub: [Iqra-A7](https://github.com/Iqra-A7)
+- LinkedIn: [Iqra A](https://www.linkedin.com/in/iqra-a-b92577380)
+- Email: [arainiqra777@gmail.com](mailto:arainiqra777@gmail.com)
 
 ---
 “Code. Learn. Improve. Repeat.”
