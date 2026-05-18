@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Iqra Parvez 👋
 
-<!--
-**Iqra-A7/Iqra-A7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Passionate About Clean UI & Modern Web Experiences
 
-Here are some ideas to get you started:
+## About Me
+- Building responsive and user-friendly web interfaces
+- Focused on clean design, performance, and simplicity
+- Continuously learning modern web technologies and best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Frontend development projects
+- Improving UI/UX skills
+- Expanding my GitHub portfolio
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- VS Code
+
+## Goals
+- Contribute to real-world projects
+- Collaborate with developers and teams
+- Grow as a professional frontend developer
+
+## Contact
+- GitHub: your-github-username
+- LinkedIn: your-linkedin-link
+- Email: your-email@example.com
+
+---
+“Code. Learn. Improve. Repeat.”
