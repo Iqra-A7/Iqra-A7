@@ -3,9 +3,10 @@
 Frontend Developer | Passionate About Clean UI & Modern Web Experiences
 
 ## About Me
-- Building responsive and user-friendly web interfaces
-- Focused on clean design, performance, and simplicity
-- Continuously learning modern web technologies and best practices
+- High school student who’s deep into frontend development
+- Building clean, responsive, and user-friendly web apps
+- Currently learning and leveling up with React & Tailwind CSS
+- Trying to turn ideas into smooth and modern web experiences
 
 ## Currently Working On
 - Frontend development projects
