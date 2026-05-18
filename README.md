@@ -30,7 +30,7 @@ Frontend Developer | Passionate About Clean UI & Modern Web Experiences
 ## Contact
 - GitHub: [Iqra-A7](https://github.com/Iqra-A7)
 - LinkedIn: [Iqra A](https://www.linkedin.com/in/iqra-a-b92577380)
-- Email: [arainiqra777@gmail.com](mailto:arainiqra777@gmail.com)
+
 
 ---
 “Code. Learn. Improve. Repeat.”
