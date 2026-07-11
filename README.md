@@ -41,8 +41,6 @@
 
 ## 🧬 About Me
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/ykilcher/img/main/spacer.png"/>
-
 ```yaml
 name: "Iqra Arain"
 role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
