@@ -17,21 +17,21 @@
 <a href="https://your-portfolio-link.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/iqraawebdeveloper">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:arainiqra777@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/Iqra-A7">
   <img src="https://img.shields.io/badge/GitHub-Follow-9146FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=8a2be2&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/your-username?style=flat-square&color=8a2be2&labelColor=1a1a2e&label=Followers" />
-<img src="https://img.shields.io/github/stars/your-username?style=flat-square&color=8a2be2&labelColor=1a1a2e&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=Iqra-A7&style=flat-square&color=8a2be2&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Iqra-A7?style=flat-square&color=8a2be2&labelColor=1a1a2e&label=Followers" />
+<img src="https://img.shields.io/github/stars/Iqra-A7?style=flat-square&color=8a2be2&labelColor=1a1a2e&label=Stars" />
 
 </div>
 
@@ -44,7 +44,7 @@
 <img align="right" width="38%" src="https://raw.githubusercontent.com/ykilcher/img/main/spacer.png"/>
 
 ```yaml
-name: "Your Name"
+name: "Iqra Arain"
 role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
 based_in: "India"
 focus:
@@ -131,7 +131,7 @@ A full-stack, real-time analytics platform leveraging machine learning to genera
 | **Performance** | Sub-200ms API response time at p95 |
 | **Security** | JWT auth, RBAC, encrypted data at rest |
 | **Impact** | Reduced manual reporting effort by 70% |
-| **Repository** | [View Repo](https://github.com/your-username/ai-analytics-platform) |
+| **Repository** | [View Repo](https://github.com/Iqra-A7/ai-analytics-platform) |
 
 Built to solve the problem of fragmented, delayed business reporting. Designed a real-time ingestion pipeline paired with a lightweight ML forecasting layer, exposed via a responsive dashboard for non-technical stakeholders.
 
@@ -150,7 +150,7 @@ A horizontally scalable task queue and orchestration system built for high-throu
 | **Performance** | 99.98% job completion SLA |
 | **Security** | mTLS between services, signed job payloads |
 | **Impact** | Cut infra costs by 35% via autoscaling workers |
-| **Repository** | [View Repo](https://github.com/your-username/task-orchestrator) |
+| **Repository** | [View Repo](https://github.com/Iqra-A7/task-orchestrator) |
 
 Engineered to replace a legacy cron-based system prone to failures. Introduced retry logic, dead-letter queues, and horizontal worker scaling via Kubernetes HPA.
 
@@ -169,7 +169,7 @@ A domain-specific conversational AI assistant using RAG architecture to answer q
 | **Performance** | ~1.2s average query response latency |
 | **Security** | Role-based document access control |
 | **Impact** | Reduced support ticket volume by 40% |
-| **Repository** | [View Repo](https://github.com/your-username/rag-llm-assistant) |
+| **Repository** | [View Repo](https://github.com/Iqra-A7/rag-llm-assistant) |
 
 Designed to bridge the gap between static documentation and real-time user support, combining vector search with LLM reasoning for grounded, accurate responses.
 
@@ -188,7 +188,7 @@ A production-grade e-commerce platform with real-time inventory sync, payment pr
 | **Performance** | Lighthouse performance score of 96+ |
 | **Security** | PCI-compliant payment flow, input sanitization |
 | **Impact** | Increased conversion rate by 22% |
-| **Repository** | [View Repo](https://github.com/your-username/ecommerce-platform) |
+| **Repository** | [View Repo](https://github.com/Iqra-A7/ecommerce-platform) |
 
 Built with a focus on Core Web Vitals and conversion optimization, using ISR for product pages and a modular checkout system.
 
@@ -268,16 +268,16 @@ Focused on developing and deploying machine learning models into production syst
 
 <div align="center">
 
-<a href="https://leetcode.com/your-username">
+<a href="https://leetcode.com/Iqra-A7">
   <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://www.geeksforgeeks.org/user/your-username">
+<a href="https://www.geeksforgeeks.org/user/Iqra-A7">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://www.hackerrank.com/your-username">
+<a href="https://www.hackerrank.com/Iqra-A7">
   <img src="https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://www.codechef.com/users/your-username">
+<a href="https://www.codechef.com/users/Iqra-A7">
   <img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
@@ -289,12 +289,12 @@ Focused on developing and deploying machine learning models into production syst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B794F6&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=B794F6&fire=B794F6&currStreakLabel=B794F6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Iqra-A7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B794F6&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqra-A7&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=B794F6&fire=B794F6&currStreakLabel=B794F6" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B794F6&text_color=c9d1d9" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-A7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B794F6&text_color=c9d1d9" width="50%"/>
 
 </div>
 
@@ -304,7 +304,7 @@ Focused on developing and deploying machine learning models into production syst
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Iqra-A7&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -314,7 +314,7 @@ Focused on developing and deploying machine learning models into production syst
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0d1117&color=B794F6&line=8A2BE2&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iqra-A7&theme=react-dark&bg_color=0d1117&color=B794F6&line=8A2BE2&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -324,7 +324,7 @@ Focused on developing and deploying machine learning models into production syst
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Iqra-A7/Iqra-A7/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -358,13 +358,13 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-your.email%40example.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+<a href="mailto:arainiqra777@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-arainiqra777%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Your%20Name-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+<a href="https://www.linkedin.com/in/iqraawebdeveloper">
+  <img src="https://img.shields.io/badge/LinkedIn-Iqra%20Arain-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/Iqra-A7">
   <img src="https://img.shields.io/badge/GitHub-your--username-9146FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
 <a href="https://your-portfolio-link.com">
